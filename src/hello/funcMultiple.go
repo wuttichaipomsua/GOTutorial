@@ -3,7 +3,7 @@ package main
 import (  
     "fmt"
 )
-
+// Calculate
 func calculateBill(price, no int) int {  
     var totalPrice = price * no
     return totalPrice
