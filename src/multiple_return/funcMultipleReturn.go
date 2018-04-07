@@ -7,7 +7,7 @@ func main() {
 	fmt.Printf("Area %f Perimeter %f", area, perimeter)
 
 	//area, perimeter = rectProps1(10.8, 5.6)
-	rectProps1(10.8, 5.7)
+	rectProps1(10.7, 5.7)
 	fmt.Println("From rectProps1 Area %f Perimeter %f", area, perimeter)
 }
 
